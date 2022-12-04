@@ -1,1 +1,1 @@
-Xike:0.tcp.jp.ngrok.io:18624:0,admin:goldentest.servegame.com:14445:0,0,0
+Xike:0.tcp.ap.ngrok.io:19208:0,admin:goldentest.servegame.com:14445:0,0,0
